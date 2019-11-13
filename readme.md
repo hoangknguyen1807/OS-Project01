@@ -1,5 +1,5 @@
 # Giới thiệu Project Simple Shell
-Đồ án “chương trình Shell đơn giản” (Simple Shell) mô phỏng hoạt động
+Mini Project “chương trình Shell đơn giản” (Simple Shell) mô phỏng hoạt động
 của một command-line interface (CLI) - giao diện dòng lệnh, trong đó người
 dùng có thể nhập lệnh vào và thực thi lệnh. Chương trình Simple Shell hỗ trợ
 một số lệnh cơ bản của hệ điều hành Ubuntu Linux như cd, cat, less, ls, pwd,
